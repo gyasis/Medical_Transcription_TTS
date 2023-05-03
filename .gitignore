@@ -1,2 +1,32 @@
 .DS_Store
+
+# Audio files
+*.mp3
+*.wav
+*.flac
+*.m4a
+*.aac
+*.ogg
+*.wma
+
+# Video files
+*.mp4
 *.mkv
+*.flv
+*.avi
+*.mov
+*.wmv
+*.mpeg
+*.mpg
+*.webm
+
+# Image files
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.tiff
+*.ico
+*.svg
+*.webp
